@@ -77,17 +77,8 @@ justify-content: space-between;
     width:80px;
     cursor: pointer;
 }
-body {
-	background-color: #060607;
-	font-size: 1.6rem;
-	font-family: "Open Sans", sans-serif;
-	color: #2b3e51;
-  }
+
   
-  h2 {
-	font-weight: 300;
-	text-align: center;
-  }
   
   p {
 	position: relative;
